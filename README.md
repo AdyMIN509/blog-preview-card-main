@@ -50,17 +50,17 @@ I learned something new doing this project:
 * The mobile first design approach.
 * Using variable in css to easily change the formatting of the page:
 	```css
-		:root {
-			--yellow: hsl(47, 88%, 63%);
-			--white: hsl(0, 0%, 100%);
-			--gray-500: hsl(0, 0%, 42%);
-			--gray-950: hsl(0, 0%, 7%);
-			--p-font-size: 1rem;
-			--mobile-width: 375px;
-			--desktop-width: 1440px;
-			--weigth-500: 500;
-			--weigth-800: 800;
-			--shadow-color: #000000;
+	:root {
+		--yellow: hsl(47, 88%, 63%);
+		--white: hsl(0, 0%, 100%);
+		--gray-500: hsl(0, 0%, 42%);
+		--gray-950: hsl(0, 0%, 7%);
+		--p-font-size: 1rem;
+		--mobile-width: 375px;
+		--desktop-width: 1440px;
+		--weigth-500: 500;
+		--weigth-800: 800;
+		--shadow-color: #000000;
 	}
 	```
 * Flexbox for the layout:
